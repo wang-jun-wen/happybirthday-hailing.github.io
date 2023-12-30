@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("Wrong Password");
+		alert("笨蛋 用户名是柯基 密码是20231125，这都不知道哼！");
 	}
 });
 
